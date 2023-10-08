@@ -1,8 +1,7 @@
-# React + Vite
+# React + Axios | Fetch | Async/Await
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Lección #4](https://i.ibb.co/sH0tD0K/euse-Effect.gif)
 
-Currently, two official plugins are available:
+Ver en [netlify](https://useeffect-jab.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Retomando React con [JAB](https://www.youtube.com/watch?v=pBNHeb8QTN0&list=PLRM7PpbqqStKo-NiCuzuYwewZmd9b-EZ9&index=6&t=963s) uso de useRef
